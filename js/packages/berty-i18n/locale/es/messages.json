@@ -10,15 +10,15 @@
     "getstarted": "",
     "select-mode": {
       "performance": {
-        "title": "Rendimiento",
-        "desc": "Fácil de usar - Todas las funciones",
+        "title": "",
+        "desc": "",
         "push-notif": "",
-        "offline-message": "Mensajería sin conexión",
+        "offline-message": "",
         "add-contact": "",
         "fast-message": ""
       },
       "high-level": {
-        "title": "Mayor nivel de privacidad",
+        "title": "",
         "desc": "",
         "disable-push-notif": "",
         "disable-local-peer-discovery": "",
@@ -27,9 +27,9 @@
     },
     "create-account": {
       "title": "",
-      "desc": "Un nombre es la única información requerida",
-      "required": "Requerido",
-      "placeholder": "Nombre",
+      "desc": "",
+      "required": "",
+      "placeholder": "",
       "button": ""
     },
     "generate-key": {
@@ -37,9 +37,9 @@
       "desc": ""
     },
     "notifications": {
-      "header": "No te pierdas un nuevo mensaje o solicitud de contacto",
-      "recommended": "Recomendado",
-      "title": "Notificaciones",
+      "header": "",
+      "recommended": "",
+      "title": "",
       "desc": "",
       "button": "",
       "skip": ""
@@ -47,25 +47,25 @@
     "bluetooth": {
       "header": "",
       "optional": "",
-      "title": "Bluetooth",
+      "title": "",
       "desc": "",
       "button": "",
       "skip": ""
     },
     "setup-finished": {
-      "title": "¡Configuración finalizada!",
+      "title": "",
       "desc": "",
       "button": ""
     }
   },
   "main": {
     "requests": {
-      "title": "Solicitudes",
+      "title": "",
       "received-at": "",
-      "accept": "Aceptar"
+      "accept": ""
     },
     "messages": {
-      "title": "Mensajes"
+      "title": ""
     }
   }
 }
