@@ -1,71 +1,71 @@
 {
   "time": {
-    "fuzzy-time": "hh:mm",
-    "fuzzy-month-day": "dd/MM",
-    "fuzzy-year-month": "MM/YY",
-    "datetime": "MMM Do YYYY hh:mm",
-    "started-ago": "Débuté il y a {{date}}"
+    "fuzzy-time": "",
+    "fuzzy-month-day": "",
+    "fuzzy-year-month": "",
+    "datetime": "",
+    "started-ago": ""
   },
   "onboarding": {
-    "getstarted": "L'application sécurisée qui fonctionne en pair à pair, avec ou sans accès à internet",
+    "getstarted": "",
     "select-mode": {
       "performance": {
-        "title": "Performance",
-        "desc": "Utilisation simple - Toutes les options",
-        "push-notif": "Recevoir les notifications push",
-        "offline-message": "Messagerie hors-ligne",
-        "add-contact": "Ajout facile de contacts",
-        "fast-message": "Messagerie instantanée"
+        "title": "",
+        "desc": "",
+        "push-notif": "",
+        "offline-message": "",
+        "add-contact": "",
+        "fast-message": ""
       },
       "high-level": {
-        "title": "Plus haut niveau de confidentialité",
-        "desc": "Moins de metadonnées",
-        "disable-push-notif": "Notifications push désactivées",
-        "disable-local-peer-discovery": "Découverte de nœuds locaux désactivée",
-        "disable-contact-request": "Demande d'ami désactivée"
+        "title": "",
+        "desc": "",
+        "disable-push-notif": "",
+        "disable-local-peer-discovery": "",
+        "disable-contact-request": ""
       }
     },
     "create-account": {
-      "title": "Créer votre compte",
-      "desc": "Seul le nom est requis",
-      "required": "Requis",
-      "placeholder": "Nom",
-      "button": "CRÉER MON COMPTE"
+      "title": "",
+      "desc": "",
+      "required": "",
+      "placeholder": "",
+      "button": ""
     },
     "generate-key": {
-      "title": "Démarrage du nœud Berty…",
-      "desc": "Cette tâche peut prendre quelques secondes"
+      "title": "",
+      "desc": ""
     },
     "notifications": {
-      "header": "Ne ratez pas de messages ou de demandes de contacts",
-      "recommended": "Recommandé",
-      "title": "Notifications",
-      "desc": "Vous devez autoriser l'envoi de notifications push",
-      "button": "AUTHORISER LES NOTIFICATIONS",
-      "skip": "PASSER ET FAIRE ÇA PLUS TARD"
+      "header": "",
+      "recommended": "",
+      "title": "",
+      "desc": "",
+      "button": "",
+      "skip": ""
     },
     "bluetooth": {
-      "header": "Communiquer sans internet (wifi ou cellulaire) en vous connectant directement avec vos amis près de vous",
-      "optional": "Optionnel",
-      "title": "Bluetooth",
-      "desc": "Pour utiliser cette fonctionnalité, vous devez autoriser l'utilisation du Bluetooth sur votre téléphone",
-      "button": "AUTORISER LE BLUETOOTH",
-      "skip": "PASSER ET FAIRE ÇA PLUS TARD"
+      "header": "",
+      "optional": "",
+      "title": "",
+      "desc": "",
+      "button": "",
+      "skip": ""
     },
     "setup-finished": {
-      "title": "Configuration terminée !",
-      "desc": "Vous pouvez dés maintenant utiliser l'application, ajoutez vos contacts et parler en toute tranquillité avec eux",
-      "button": "LANCER L'APPLICATION"
+      "title": "",
+      "desc": "",
+      "button": ""
     }
   },
   "main": {
     "requests": {
-      "title": "Requêtes",
-      "received-at": "Reçu",
-      "accept": "Accepter"
+      "title": "",
+      "received-at": "",
+      "accept": ""
     },
     "messages": {
-      "title": "Messages"
+      "title": ""
     }
   }
 }
