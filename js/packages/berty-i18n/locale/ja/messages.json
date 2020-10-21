@@ -1,8 +1,8 @@
 {
   "time": {
-    "fuzzy-time": "HH:mm",
-    "fuzzy-month-day": "M月D日",
-    "fuzzy-year-month": "YYYY年M月",
+    "fuzzy-time": "",
+    "fuzzy-month-day": "",
+    "fuzzy-year-month": "",
     "datetime": "",
     "started-ago": ""
   },
@@ -26,11 +26,11 @@
       }
     },
     "create-account": {
-      "title": "アカウントの作成",
+      "title": "",
       "desc": "",
       "required": "",
-      "placeholder": "名前",
-      "button": "アカウントの作成"
+      "placeholder": "",
+      "button": ""
     },
     "generate-key": {
       "title": "",
@@ -39,17 +39,17 @@
     "notifications": {
       "header": "",
       "recommended": "",
-      "title": "通知",
+      "title": "",
       "desc": "",
-      "button": "通知を許可する",
+      "button": "",
       "skip": ""
     },
     "bluetooth": {
       "header": "",
       "optional": "",
-      "title": "Bluetooth",
+      "title": "",
       "desc": "",
-      "button": "Bluetoothの使用を許可する",
+      "button": "",
       "skip": ""
     },
     "setup-finished": {
@@ -65,7 +65,7 @@
       "accept": ""
     },
     "messages": {
-      "title": "メッセージ"
+      "title": ""
     }
   }
 }
