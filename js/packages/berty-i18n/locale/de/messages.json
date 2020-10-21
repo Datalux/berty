@@ -4,17 +4,17 @@
     "fuzzy-month-day": "",
     "fuzzy-year-month": "",
     "datetime": "",
-    "started-ago": ""
+    "started-ago": "Vor {{date}} gestartet"
   },
   "onboarding": {
     "getstarted": "",
     "select-mode": {
       "performance": {
-        "title": "",
-        "desc": "",
-        "push-notif": "",
-        "offline-message": "",
-        "add-contact": "",
+        "title": "Leistung",
+        "desc": "Einfach zu bedienen - Alle Funktionen",
+        "push-notif": "Push-Benachrichtigungen erhalten",
+        "offline-message": "Offline-Nachrichten",
+        "add-contact": "Kontakte einfach hinzufügen",
         "fast-message": ""
       },
       "high-level": {
@@ -29,16 +29,16 @@
       "title": "",
       "desc": "",
       "required": "",
-      "placeholder": "",
-      "button": ""
+      "placeholder": "Name",
+      "button": "MEIN KONTO ERSTELLEN"
     },
     "generate-key": {
-      "title": "",
+      "title": "Starte den Berty Router…",
       "desc": ""
     },
     "notifications": {
       "header": "",
-      "recommended": "",
+      "recommended": "Empfohlen",
       "title": "",
       "desc": "",
       "button": "",
@@ -47,7 +47,7 @@
     "bluetooth": {
       "header": "",
       "optional": "",
-      "title": "",
+      "title": "Bluetooth",
       "desc": "",
       "button": "",
       "skip": ""
@@ -60,12 +60,12 @@
   },
   "main": {
     "requests": {
-      "title": "",
-      "received-at": "",
-      "accept": ""
+      "title": "Anfragen",
+      "received-at": "Erhalten",
+      "accept": "Akzeptieren"
     },
     "messages": {
-      "title": ""
+      "title": "Nachrichten"
     }
   }
 }
