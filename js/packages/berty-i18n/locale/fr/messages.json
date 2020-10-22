@@ -37,7 +37,7 @@
       "desc": "Cette tâche peut prendre quelques secondes"
     },
     "notifications": {
-      "header": "",
+      "header": "Ne ratez pas de messages ou de demandes de contacts",
       "recommended": "Recommandé",
       "title": "Notifications",
       "desc": "Vous devez autoriser l'envoi de notifications push",
